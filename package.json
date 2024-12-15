@@ -1,7 +1,7 @@
 {
-  "name": "simplex-charta",
+  "name": "code-paper",
   "version": "1.0.0",
-  "description": "simplex-charta is a code editor made with Electron JS.",
+  "description": "code-paper is a code editor made with Electron JS.",
   "main": "src/main/main.js",
   "scripts": {
     "start": "electron ."
